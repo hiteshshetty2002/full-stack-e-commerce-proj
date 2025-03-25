@@ -3,9 +3,9 @@ It is built using Spring Boot, MySQL, and React.js. It handles various operation
 
 ## Tech Stack
 
--Backend Framework: Spring Boot
--Frontend Framework: React.js
--Database: MySQL
+- Backend Framework: Spring Boot
+- Frontend Framework: React.js
+- Database: MySQL
 
 ## Features
 
